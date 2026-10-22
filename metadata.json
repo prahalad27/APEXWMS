@@ -1,0 +1,6 @@
+{
+  "name": "Warehouse & Inventory Management",
+  "description": "Real-time warehouse tracking system featuring barcode scanning, low-stock notifications, supplier management, POS billing, and charts-based sales analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
